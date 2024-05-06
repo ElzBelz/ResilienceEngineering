@@ -3,12 +3,14 @@
 ## Books on Resilience Engineering
 
 [Resilience Engineering, By David D. Woods, Erik Hollnagel](https://learning.oreilly.com/library/view/resilience-engineering/9781317065289/)
+
 [Resilience Engineering in Practice, By Jean Pariès, Erik Hollnagel, John Wreathall](https://learning.oreilly.com/library/view/resilience-engineering-in/9781317065258/)
 
 
 ## Books on Chaos Engineering
 
 [Chaos Engineering, By Casey Rosenthal, Nora Jones](https://learning.oreilly.com/library/view/chaos-engineering/9781492043850/0)
+
 [Learning Chaos Engineering, By Russ Miles](https://learning.oreilly.com/library/view/learning-chaos-engineering/9781492050995/)
 
 
