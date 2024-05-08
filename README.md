@@ -21,4 +21,6 @@
 [Deloitte's cultural approach to failure](https://www2.deloitte.com/us/en/pages/consulting/articles/build-resilience-ask-how-not-why-when-failures-happen-architecting-the-cloud-podcast-resiliency-engineering-software-systems-sre.html)
 
 
+<details><summary>Toggle me!</summary>Peek a boo!</details>
+
 
