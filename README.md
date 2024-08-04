@@ -14,8 +14,7 @@
 [Learning Chaos Engineering, By Russ Miles](https://learning.oreilly.com/library/view/learning-chaos-engineering/9781492050995/)
 
 
-## News articles that highlight that failing leads to success
-<details><summary></summary>[SpaceX approach to succeeding through embracing failure](https://www.reuters.com/lifestyle/science/spacex-rocket-explosion-illustrates-elon-musks-successful-failure-formula-2023-04-20/#:~:text=Reisman%20called%20the%20Starship%20test,consequences%20of%20failure%20are%20low.%22)</details>
+## <details><summary>News articles that highlight that failing leads to success</summary></details>
 
 [SpaceX approach to succeeding through embracing failure](https://www.reuters.com/lifestyle/science/spacex-rocket-explosion-illustrates-elon-musks-successful-failure-formula-2023-04-20/#:~:text=Reisman%20called%20the%20Starship%20test,consequences%20of%20failure%20are%20low.%22)
 
